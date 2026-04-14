@@ -1,5 +1,4 @@
-#iCloud更新测试
-DOMAIN-SUFFIX,icloud.com
+
 #ARR全家桶需走代理名单
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
